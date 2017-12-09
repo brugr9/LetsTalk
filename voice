@@ -1,0 +1,2 @@
+#!/bin/bash
+espeak -vde -g 20 -s 150 $1
